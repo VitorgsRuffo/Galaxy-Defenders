@@ -19,7 +19,7 @@ Galaxy Defenders é um projeto, inspirado no jogo Space Invaders, entregue a dis
    (wellintonpiassa@hotmail.com)
                 
                  
-- Doscente: Jandira Guenka Palma.
+- Docente: Jandira Guenka Palma.
 
 
 2 de Setembro de 2019, Londrina, Paraná.
